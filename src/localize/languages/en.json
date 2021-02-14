@@ -21,7 +21,7 @@
 		"update_card": "The calendar can't be loaded from Home Assistant component"
 	},
 	"required": {
-		"name": "Reqired",
+		"name": "Required",
 		"secondary": "Required options for this card to function"
 	},
 	"main": {
